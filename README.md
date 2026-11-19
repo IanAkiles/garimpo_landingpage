@@ -52,7 +52,7 @@ python3 -m http.server 8000
 
 ## Como editar os produtos
 
-No final do `index.html`, procure o array `products`. Cada item segue este formato:
+Edite o `index.html` na raiz. O [`index.html` em `PRODUTOS ANTIGOS/`](PRODUTOS%20ANTIGOS/index.html) guarda uma versão anterior. No final do arquivo da raiz, procure o array `products`. Cada item segue este formato:
 
 ```js
 {
